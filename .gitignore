@@ -10,3 +10,6 @@ core.h
 *#*
 
 .#*
+
+gmon.out
+oprofile_data/

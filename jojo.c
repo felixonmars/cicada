@@ -3112,5 +3112,6 @@
       {
         p_print_object_stack();
       }
+      path_load("test/loop.jo");
       p_repl();
     }
